@@ -1,0 +1,24 @@
+.header
+{
+  display:flex;
+  width:100%;
+  justify-content:space-between;
+  color:white;
+  font-size:8px;
+  height:fit-content;
+  padding:5px 8px;
+}
+.svg
+{
+  color:white;
+  height:15px;
+}
+.logo
+{
+  display:flex;
+  gap:10px;
+}
+.camera
+{
+  transform:translatex(7px);
+}

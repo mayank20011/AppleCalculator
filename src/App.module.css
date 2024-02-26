@@ -1,0 +1,28 @@
+.phone
+{
+  height:600px;
+  width:300px;
+  border:3px solid silver;
+  border-radius:70px;
+  padding:30px 30px 10px 30px;
+  background:black;
+  color:white;
+  display:flex;
+  flex-direction:column;
+  gap:10px;
+}
+.bottom
+{
+  height:5px;
+  width:100px;
+  margin:auto;
+  background:white;
+  align-self:end;
+  justify-self:end;
+  border-radius:2px;
+  margin-top:30px;
+}
+.keypad
+{
+  flex:1;
+}
